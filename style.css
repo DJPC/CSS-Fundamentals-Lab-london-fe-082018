@@ -28,11 +28,15 @@ figcaption {
   text-align: center;
 }
 
-p#featured-property {
+#featured-property {
   text-align: center;
   width: 800px;
 }
 
 #details {
   display: block ;
+}
+
+#details div {
+  float: left;
 }
