@@ -34,5 +34,5 @@ p#featured-property {
 }
 
 #details {
-  display: inline-block;
+  display: block ;
 }
